@@ -28,7 +28,7 @@ See more about Heuristic Evaluation -- hyperlink
 ### Presentation
 
 
-
+ux-ui/design-lab.github.io/REPOSITORY NAME
 
 [Heuristic Evalution](https://github.com/patrickkhoury11/DHS-A1-Hueristic/tree/main/patrickkhoury/DH110/heuristicevaluation)
 
